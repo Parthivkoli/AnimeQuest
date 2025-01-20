@@ -62,7 +62,7 @@ Voila! The app will open in your browser, and you’re ready to embark on your a
 
 Experience AnimeQuest for yourself:
 
-[AnimeQuest: Your Anime Adventure](https://animequest.streamlit.app)
+[AnimeQuest: Your Anime Adventure](https://anime-quest.streamlit.app)
 
 ## License 📜
 
