@@ -1,6 +1,11 @@
- # 🎥 AnimeQuest: Your Anime Adventure 🌟
+ 🎥 **AnimeQuest: Your Anime Adventure** 🌟
 
 Welcome to **AnimeQuest**, your magical portal into the world of anime! Whether you're a seasoned otaku or a newcomer, AnimeQuest is here to help you discover your next favorite anime with personalized recommendations, fun facts, and much more! 
+
+<div style="display: flex; align-items: center;">
+    <img src="https://media1.giphy.com/media/a6pzK009rlCak/200w.gif?cid=6c09b952svymc38vc1sd2rxs6he3fny2aemkgtlb1vann9mk&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" height="200" style="margin-right: 15px;">
+    <img src="https://media1.tenor.com/m/PMSeFGvHvzoAAAAd/my-deer-friend-nokotan-bully-maguire.gif" width="200" height="200">
+</div>
 
 Inspired by the world of anime, this app offers:
 
